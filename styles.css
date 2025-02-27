@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+table {
+  width: 80%; /* weboldal szélessége */
+  background-color:rgb(26, 167, 68); /* háttérszín */
+  color:rgb(255, 255, 255); /* betűszín */
+  font-family: 'Courier New'; /* betűtípus */
+  font-size: 25px; /* betűméret */
+}
+
+
+th {
+  background-color: black;
+}
+
+#keses{
+  background-color: red;
+}
+.paratlan_sor{
+  background-color: green;
+}
